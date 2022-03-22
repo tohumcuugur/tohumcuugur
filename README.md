@@ -19,11 +19,13 @@
 <br />
 
 ---
-<summary>:zap: GitHub Stats</summary>
+## 📈 Statistics
 
-<img align="left" alt="ugur's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tohumcuugur&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tohumcuugur" alt="Uğur-TOHUMCU" width="15%" /> </p>
 
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=tohumcuugur&count_private=true&show_icons=true&theme=ayu-mirage" alt="my github stats" width="49%"/>&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tohumcuugur&theme=ayu-mirage" alt="my commit status" width="49%" /> </p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tohumcuugur&count_private=true&show_icons=true&theme=ayu-mirage&layout=compact" alt="languages" width="50%"></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tohumcuugur&layout=compact)](https://github.com/tohumcuugur/github-readme-stats)
-
--->
+---

@@ -24,6 +24,6 @@
 <img align="left" alt="ugur's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tohumcuugur&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mertcanft&layout=compact)](https://github.com/mertcanft/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tohumcuugur&layout=compact)](https://github.com/tohumcuugur/github-readme-stats)
 
 -->

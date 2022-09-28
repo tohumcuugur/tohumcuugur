@@ -1,7 +1,7 @@
 # Hi there, I'm Uğur 👋 
 
 
-## I'm a passionate junior front end developer!!
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Junior+Frontend+Developer)](https://git.io/typing-svg)
 
 - 🌱 I’m currently learning Javascript 
 - 👯 I’m looking to collaborate with front end developers

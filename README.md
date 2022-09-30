@@ -3,9 +3,9 @@
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Junior+Frontend+Developer)](https://git.io/typing-svg)
 
-- 🌱 I’m currently learning Javascript 
+- 🌱 I’m currently learning React 
 - 👯 I’m looking to collaborate with front end developers
-- 🥅 2022 Goals: Learn more about Javascript and react js
+- 🥅 2022 Goals: Learn more about react js node js and mango db
 
 ### Languages and Tools:
 

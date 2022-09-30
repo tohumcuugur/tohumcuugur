@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning React 
 - 👯 I’m looking to collaborate with front end developers
-- 🥅 2022 Goals: Learn more about react js node js and mango db
+- 🥅 2022 Goals: Learn more about typescript react js and next js
 
 ### Languages and Tools:
 

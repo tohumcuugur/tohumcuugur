@@ -11,7 +11,7 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/bootstrap-282C34?logo=css3&logoColor=7D0FF3" alt="CSS3 logo" title="CSS3" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Bootstrap-282C34?logo=css3&logoColor=7D0FF3" alt="Bootstrap logo" title="Bootsrap" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
 &nbsp;

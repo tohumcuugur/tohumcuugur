@@ -51,6 +51,18 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/React Native-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" />][tech_tools_anchor]
 
+---
+## 📈 Statistics
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tohumcuugur" alt="Uğur-TOHUMCU" width="15%" /> </p>
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=tohumcuugur&count_private=true&show_icons=true&theme=ayu-mirage" alt="my github stats" width="49%"/>&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tohumcuugur&theme=ayu-mirage" alt="my commit status" width="49%" /> </p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tohumcuugur&count_private=true&show_icons=true&theme=ayu-mirage&layout=compact" alt="languages" width="50%"></p>
+
+---
+
 ## 🔍  Where to find me
 [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/ugur-tohumcu)
 

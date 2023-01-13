@@ -29,7 +29,7 @@
 ## 📖  What I am currently learning / improving on
 [<img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" />][learning_now_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/GatsbyJS-282C34?logo=gatsby&logoColor=FFCA28" alt="Gatsby logo" title="GatsbyJS" height="25" />][learning_now_anchor]
+[<img src="https://img.shields.io/badge/ReactContext-282C34?logo=reactcontext&logoColor=FFCA28" alt="reactcontext logo" title="reactcontext" height="25" />][learning_now_anchor]
 &nbsp;
 [<img src="https://img.shields.io/static/v1?label=&message=styled-components&color=282C34&logo=styled-components&logoColor=DB7093" alt="styled-components logo" title="styled-components" height="25" />][learning_now_anchor]
 [<img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />][tech_tools_anchor]
@@ -40,9 +40,11 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" />][learning_next_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" />][learning_next_anchor]
-&nbsp;
 [<img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=E10098" alt="GraphQL logo" title="GraphQL" height="25" />][learning_next_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/GatsbyJS-282C34?logo=gatsby&logoColor=FFCA28" alt="Gatsby logo" title="GatsbyJS" height="25" />][learning_next_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" />][learning_next_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />][learning_next_anchor]
 &nbsp;
